@@ -18,7 +18,7 @@ Rode Website clone Using Tailwind CSS
 
 > ## Output 
 
-![output short video](https://im5.ezgif.com/tmp/ezgif-5-d47daf4bfb.gif)
+![output short video](./assets/ezgif.com-gif-maker%20shopify.gif)
 
 ![](./assets/output.png)  
 ![](./assets/output2.png)
