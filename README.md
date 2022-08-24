@@ -10,7 +10,7 @@
 
 
 
-Rode Website clone Using Tailwind CSS
+shopify Website clone Using Tailwind CSS
 
 ## 🚀 shopify Clone UI Live Link 
  
